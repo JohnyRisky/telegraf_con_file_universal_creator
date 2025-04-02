@@ -1,3 +1,5 @@
-Create, edit, delete Telegraf configuration file and start a Docker container with Telegraf metrics and logs agent inside. 
-Everything with wrapped in FastAPI API
-Get data easy and fast!
+
+This is the FastAPI based API, allowing to CRUD a Docker container with Telegraf agent inside. 
+All Telegraf plugins are validated so not-allowed parameters in the configuration file won't pass. 
+You may create whatever number of containered Telegraf agents. 
+
