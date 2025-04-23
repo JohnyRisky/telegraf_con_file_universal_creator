@@ -9,8 +9,8 @@ app = FastAPI(
     version="1.0.0",
     docs_url="/docs",
     contact={
-        "name": "Alg Innovations",
-        "url": "https://alg-in.kz",
+        "name": "Zhanibek Tauyekelov",
+        "url": "https://tza.kz",
     },
 )
 
